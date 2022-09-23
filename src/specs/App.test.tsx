@@ -8,6 +8,6 @@ describe('When a user lands on the home page', () => {
   });
 
   it('shows the title', () => {
-    screen.getByText('Frontend with github actions');
+    screen.getByText('Poster maker!');
   });
 });

@@ -1,3 +1,3 @@
-# Frontend with github actions for forking
+# Poster maker
 
-Just switch 'frontend-fork' to the name of your app and you should be good to go!
+Poster maker for Hope, Cammy, and Tulula's 25th birthday party in Los Angeles!
