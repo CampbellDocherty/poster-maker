@@ -1,6 +1,6 @@
 # See https://developer.github.com/v3/repos/#edit for all available settings.
 repository:
-  name: frontend-fork
+  name: poster-maker
   description: Happy Birthday Eman!
   default_branch: main
   private: true
